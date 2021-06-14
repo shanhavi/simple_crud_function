@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "shangavi",
+      "lastname": "shangavi",
+      "email": "shangavis95@gmail.com",
+      "mobile": "0758845009"
+    },
+    {
+      "id": 3,
+      "firstname": "shangavi",
+      "lastname": "shangavi",
+      "email": "shangavis95@gmail.com",
+      "mobile": "0758845009"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
